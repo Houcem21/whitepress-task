@@ -1,0 +1,2 @@
+before runing the code, make sure to run this command : pip install pandas requests langdetect openpyxl beautifulsoup4 lxml
+the excel file is already filled but feel free to replace it and modifying the path to the new file's name
